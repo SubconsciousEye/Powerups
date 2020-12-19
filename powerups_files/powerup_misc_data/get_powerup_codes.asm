@@ -33,7 +33,7 @@
 	dw give_cloud_flower
 	dw give_cat_suit
 	dw give_elec_flower
-	dw give_nothing
+	dw give_super_carrot
 	dw give_nothing
 	dw give_nothing
 	dw give_nothing
@@ -67,6 +67,7 @@
 	incsrc get_powerup/cloud_flower.asm
 	incsrc get_powerup/cat_suit.asm
 	incsrc get_powerup/elec_flower.asm
+	incsrc get_powerup/super_carrot.asm
 
 ;; ^^^^ ---- Here goes your codes/incsrc ---- ^^^^
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

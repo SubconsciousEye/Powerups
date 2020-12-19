@@ -46,8 +46,9 @@ MarioPalettes:
 	%insert_palette(cat_suit_mario)			; powerup 12
 ; Electric flower
 	%insert_palette(electric_flower_mario)		; powerup 13
+; Super Carrot (SML2)
+	%insert_palette(bunny_mario)			; powerup 14
 
-	%insert_palette(small_mario)			; powerup 14
 	%insert_palette(small_mario)			; powerup 15
 	%insert_palette(small_mario)			; powerup 16
 	%insert_palette(small_mario)			; powerup 17
@@ -97,8 +98,9 @@ LuigiPalettes:
 	%insert_palette(cat_suit_luigi)			; powerup 12
 ; Electric flower
 	%insert_palette(electric_flower_luigi)		; powerup 13
+; Super Carrot (SML2)
+	%insert_palette(bunny_luigi)			; powerup 14
 
-	%insert_palette(small_luigi)			; powerup 14
 	%insert_palette(small_luigi)			; powerup 15
 	%insert_palette(small_luigi)			; powerup 16
 	%insert_palette(small_luigi)			; powerup 17

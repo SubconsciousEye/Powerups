@@ -46,11 +46,13 @@ powerup_items:
 	%insert_gfx(propeller_mario,9)
 	%insert_gfx(shell_mario,A)
 	%insert_gfx(cat_mario,B)
+	%insert_gfx(bunny_mario,C)
 	%insert_extra_gfx(cape_tiles,0)
 	%insert_extra_gfx(tail_tiles,1)
 	%insert_extra_gfx(propeller_tiles,2)
 	%insert_extra_gfx(cloud_tiles,3)
 	%insert_extra_gfx(cat_tiles,4)
+	%insert_extra_gfx(bunny_ears,5)
 endif
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
